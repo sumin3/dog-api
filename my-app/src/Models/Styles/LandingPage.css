@@ -1,0 +1,35 @@
+.grid-btn-container{
+  grid-template-columns: auto auto auto auto;
+  display: grid;
+  grid-gap: 20px;
+
+}
+.grid-img-container{
+  grid-template-columns: auto auto auto;
+  display: grid;
+  grid-gap: 20px;
+  justify-items: center;
+}
+.Landing-container{
+  padding: 10%;
+}
+.image{
+  width: 250px; height: 150px;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width : 768px)
+ {
+  .grid-img-container {
+    grid-template-columns: auto auto;
+}
+.grid-btn-container {
+  grid-template-columns: auto auto auto; 
+  }
+}
+@media only screen and (max-width : 414px)
+ {
+  .grid-img-container, .grid-btn-container {
+    grid-template-columns: auto;
+}
+}
