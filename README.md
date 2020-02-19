@@ -32,7 +32,7 @@ Run the app
 npm start
 ```
 ## Demo
-- [Video Recording Demo](https://drive.google.com/file/d/1zWwLGQ0Mslr_3tlQo4-7hf0x9Ym_yeg_/view?usp=sharing)
+- [Video Recording Demo](https://drive.google.com/file/d/1TFxuopQmRCPm1pdaCXTgMZrf1maYliNZ/view?usp=sharing)
 
 ## Author
 [Sumin Yu](https://github.com/sumin3)
